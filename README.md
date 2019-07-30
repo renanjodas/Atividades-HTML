@@ -7,7 +7,7 @@ Atividade em aula 30/07/2019 - Web
 - Criar 3 páginas em HTML e editar conforme orientação do professor
 - Subir os arquivos para o repositório
 
----   
+
 ### Alguns Comandos Utilizados:
 
 * \<a href ""></a> - tag para inserção de link (externo ou local)  
