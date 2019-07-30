@@ -7,6 +7,7 @@ Atividade em aula 30/07/2019 - Web
 - Criar 3 páginas em HTML e editar conforme orientação do professor
 - Subir os arquivos para o repositório
 
+---   
 ### Alguns Comandos Utilizados:
 
 * \<a href ""></a> - tag para inserção de link (externo ou local)  
@@ -15,7 +16,7 @@ Atividade em aula 30/07/2019 - Web
   <h4>Links Úteis:</h4>
         <a href="https://imasters.com.br/">Imasters</a>
  ```
- 
+ ---  
  * \<img src=""> - tag para inserção de imagem (externo ou local)  
  Ex.:
  ```html
@@ -24,8 +25,8 @@ Atividade em aula 30/07/2019 - Web
         <img src="_imagens/senac-americana.jpg">
   </body>
  ```  
- 
- * \<meta charset="utf-8">" - tag para indicar alfabeto latino americano(região)  
+ ---  
+ * \<meta charset="utf-8"> - tag para indicar alfabeto latino americano(região)  
  Ex.:
  ```html
   <head>
@@ -33,7 +34,7 @@ Atividade em aula 30/07/2019 - Web
         <meta charset="utf-8">
   </head>
  ```  
- 
+ ---  
  ### Author
  [Renan Dias Jodas](https://br.linkedin.com/in/renanjodas)
 
