@@ -9,14 +9,14 @@ Atividade em aula 30/07/2019 - Web
 
 ### Alguns Comandos Utilizados:
 
-* <a href ""></a> - tag para inserção de link (externo ou local)  
+* \<a href ""></a> - tag para inserção de link (externo ou local)  
  Ex.:
  ```html
   <h4>Links Úteis:</h4>
         <a href="https://imasters.com.br/">Imasters</a>
  ```
  
- * "<img src=""> "- tag para inserção de imagem (externo ou local)  
+ * \<img src=""> - tag para inserção de imagem (externo ou local)  
  Ex.:
  ```html
   <body>
@@ -25,7 +25,7 @@ Atividade em aula 30/07/2019 - Web
   </body>
  ```  
  
- * "<meta charset="utf-8">" - tag para indicar alfabeto latino americano(região)  
+ * \<meta charset="utf-8">" - tag para indicar alfabeto latino americano(região)  
  Ex.:
  ```html
   <head>
