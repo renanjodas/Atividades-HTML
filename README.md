@@ -10,7 +10,7 @@ Atividade em aula 30/07/2019 - Web
 
 ### Alguns Comandos Utilizados:
 
-* \<a href ""></a> - tag para inserção de link (externo ou local)  
+* \<a href "">\</a> - tag para inserção de link (externo ou local)  
  Ex.:
  ```html
   <h4>Links Úteis:</h4>
